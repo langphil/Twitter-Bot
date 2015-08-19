@@ -1,4 +1,4 @@
-Use this py script to tweet to a twitter account with content located in a .txt file. 
+*Use this py script to tweet to a twitter account with content located in a .txt file.*
 
 1) Enter in Twitter auth details in tweet.py.
 
